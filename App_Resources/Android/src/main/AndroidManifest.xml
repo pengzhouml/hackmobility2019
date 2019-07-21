@@ -20,7 +20,8 @@
 		android:icon="@drawable/icon"
 		android:label="@string/app_name"
 		android:theme="@style/AppTheme">
-
+    <meta-data android:name="com.here.android.maps.appid" android:value="en4UDxYiyY253xi8sHoX"/>
+<meta-data android:name="com.here.android.maps.apptoken" android:value="RNuSjnohpcBhFIVrGzP8Kg"/>
 		<activity
 			android:name="com.tns.NativeScriptActivity"
 			android:label="@string/title_activity_kimera"
